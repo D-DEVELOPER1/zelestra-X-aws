@@ -1,0 +1,14 @@
+prefix=/Users/payourse/Desktop/zelestra/env
+exec_prefix=/Users/payourse/Desktop/zelestra/env
+libdir=/Users/payourse/Desktop/zelestra/env/lib
+includedir=/Users/payourse/Desktop/zelestra/env/include
+
+Name: FreeType 2
+URL: https://freetype.org
+Description: A free, high-quality, and portable font engine.
+Version: 26.2.20
+Requires: 
+Requires.private: zlib, libpng
+Libs: -L/Users/payourse/Desktop/zelestra/env/lib -lfreetype
+Libs.private: 
+Cflags: -I${includedir}/freetype2

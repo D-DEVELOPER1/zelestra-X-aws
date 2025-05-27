@@ -1,0 +1,13 @@
+prefix=/Users/payourse/Desktop/zelestra/env
+exec_prefix=/Users/payourse/Desktop/zelestra/env
+libdir=/Users/payourse/Desktop/zelestra/env/lib
+sharedlibdir=/Users/payourse/Desktop/zelestra/env/lib
+includedir=/Users/payourse/Desktop/zelestra/env/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}

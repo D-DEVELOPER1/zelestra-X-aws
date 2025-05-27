@@ -1,0 +1,10 @@
+prefix=/Users/payourse/Desktop/zelestra/env
+exec_prefix=/Users/payourse/Desktop/zelestra/env
+libdir=/Users/payourse/Desktop/zelestra/env/lib
+includedir=/Users/payourse/Desktop/zelestra/env/include
+
+Name: Protocol Buffers
+Description: Google's Data Interchange Format
+Version: 29.3.0
+Libs: -L${libdir} -lupb 
+Cflags: -I${includedir}
