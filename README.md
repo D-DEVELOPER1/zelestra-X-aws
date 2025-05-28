@@ -1,4 +1,11 @@
-# Solar Panel Performance Prediction for Predictive Maintenance
+[![Python](https://img.shields.io/badge/python-3.6+-blue.svg)](https://www.python.org/downloads/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![HackerEarth](https://img.shields.io/badge/HackerEarth-Challenge-brightgreen)](https://www.hackerearth.com/)
+[![AWS](https://img.shields.io/badge/AWS-Powered-orange)](https://aws.amazon.com/)
+[![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Applied-blueviolet)](https://en.wikipedia.org/wiki/Machine_learning)
+[![Data Science](https://img.shields.io/badge/Data%20Science-Project-lightgrey)](https://en.wikipedia.org/wiki/Data_science)
+
+# **Solar Panel Performance Prediction for Predictive Maintenance**
 
 ## Team Members
 * Babatunde James ([D-DEVELOPER1](https://github.com/D-DEVELOPER1))
