@@ -1,9 +1,9 @@
 # Solar Panel Performance Prediction for Predictive Maintenance
 
 ## Team Members
-* Muyiwa Obadara
-* Babatunde James
-
+* Muyiwa Obadara @mobadara
+* Babatunde James @D-DEVELOPER1
+  
 ## Project Goal
 To develop a Machine Learning model that predicts performance degradation and potential failures in solar panels using historical and real-time sensor data, enabling predictive maintenance and optimal energy output.
 
